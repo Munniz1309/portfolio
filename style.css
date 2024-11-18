@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7; 
+    color: #333333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    font-size: 13.4px;
+}
+
+header {
+    background-color: #4682b4; 
+    color: #ffffff;
+    padding: 10px 15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+ul {
+    list-style: none; /* Remove os marcadores */
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none; /* Remove o sublinhado */
+    color: #ffffff;
+}
+
+h1, h2 {
+    font-size: 24px;
+    color: #2c3e50;
+}
+
+section {
+    padding: 15px;
+    margin: 10px 15px;
+    background-color: #ffffff; 
+    border: 1px solid #dcdcdc; 
+    border-radius: 5px;
+}
+
+img {
+    border-radius: 20px; 
+    border: 2px solid #4682b4; 
+}
+
+.social-links a {
+    margin: 20px;
+    color: #4682b4;
+    font-size: 18px;
+}
+
+.skills-list{
+    margin: 12px;
+    list-style: disc; /* Adiciona os marcadores */
+}
+
+#home-page{
+    text-align: center;
+}
